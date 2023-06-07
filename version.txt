@@ -5,3 +5,5 @@ Develop, Start at 2023-06-03 : 20.30 pm, Stop at 2023-06-03 : 22.05 pm
 Develop, Start at 2023-06-05 : 21.00 pm, Stop at 2023-06-05 : 22.32 pm
 
 Develop, Start at 2023-06-06 : 06.00 am, Stop at 2023-06-06 : 07.00 am
+
+Develop, Start at 2023-06-07 : 21.30 pm, Stop at 2023-06-07 : 24.00 pm
